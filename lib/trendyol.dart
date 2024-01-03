@@ -3,10 +3,6 @@ import 'package:flutter/material.dart';
 class Trendyol extends StatelessWidget {
   const Trendyol({Key? key}) : super(key: key);
 
-//deneme
-//deneme
-//deneme
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -26,6 +22,7 @@ class Trendyol extends StatelessWidget {
             ),
 
             Text("Hizmetlerimizi keşfet"),
+            Text("deneme"),
             Card(
               child: Image.network(""),
             )

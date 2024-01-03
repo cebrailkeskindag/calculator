@@ -7,8 +7,8 @@ class Homepage extends StatefulWidget {
   _HomepageState createState() => _HomepageState();
 }
 
+//yeni branch eklendi - ilker
 class _HomepageState extends State<Homepage> {
-  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
