@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class Trendyol extends StatelessWidget {
   const Trendyol({Key? key}) : super(key: key);
-
+//deneme satırı
   @override
   Widget build(BuildContext context) {
     return Scaffold(
